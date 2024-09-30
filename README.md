@@ -8,6 +8,7 @@ framework that utilizes combinations of generative models. One of which focuses 
 for the adversarial network which only contains coarse-scale images. The other generative network is built for being injected fine-scale information into the coarse-scale 3D images generated through the first generator. During the process, we input two-dimensional high-r
 esolution imageswith fine-scale information into the discriminator to generate a multi-scale images. Taking anisotropy into consideration, loss function combinations are presented to d eal with. We conduct a case study on a multi-scale digital rock reconstructed of intra-grai n pores into inter-grain pores through our approach. Through qualitative and quantitative c omparison, it is demonstrated that our method is more practical and efficient than the late st numerical reconstruction methods.
 
+![network](network.png)
 
 ## Prerequisites
 
