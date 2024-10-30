@@ -9,19 +9,25 @@ for the adversarial network which only contains coarse-scale images. The other g
 esolution imageswith fine-scale information into the discriminator to generate a multi-scale images. Taking anisotropy into consideration, loss function combinations are presented to d eal with. We conduct a case study on a multi-scale digital rock reconstructed of intra-grai n pores into inter-grain pores through our approach. Through qualitative and quantitative c omparison, it is demonstrated that our method is more practical and efficient than the late st numerical reconstruction methods.
 
 
-<center>
-<img src="network.png"/>
-<br/>
-Figure 1: Network overview.
-<br/><br/><br/>
-<img src="img_folder\result-3.png"/>
-<br/>
-<img src="img_folder\result-1.png" width="300" height='300'/>
-<img src="img_folder\result-2.png" width="300" height='300'/>
-<br/>
-Figure 2: Our results.
-<br/><br/><br/>
-</center>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="network.png"/>
+      <br/>Figure 1: Network overview.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="img_folder\result-3.png"/>
+      <br/>Figure 2: Our results.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img_folder\result-1.png" width="300" height='300'/></td>
+    <td align="center"><img src="img_folder\result-2.png" width="300" height='300'/></td>
+  </tr>
+</table>
 
 
 ## Prerequisites
