@@ -10,18 +10,19 @@ esolution imageswith fine-scale information into the discriminator to generate a
 
 
 <center>
-<img src="network.png" alt="图2"  style="display:inline-block;" />
+<img src="network.png"/>
 <br/>
 Figure 1: Network overview.
 <br/><br/><br/>
-<img src="img_folder\result-3.png" alt="图2"  style="display:inline-block;" />
+<img src="img_folder\result-3.png"/>
 <br/>
-<img src="img_folder\result-1.png" alt="图1" width="400" height='400' style="display:inline-block; margin-right: 10px;" />
-<img src="img_folder\result-2.png" alt="图2" width="400" height='400' style="display:inline-block;" />
+<img src="img_folder\result-1.png" width="300" height='300'/>
+<img src="img_folder\result-2.png" width="300" height='300'/>
 <br/>
 Figure 2: Our results.
 <br/><br/><br/>
 </center>
+
 
 ## Prerequisites
 
